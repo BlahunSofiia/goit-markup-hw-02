@@ -33,8 +33,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
 }
-.navigation-ling:hover,
-.navigation-ling:focus {
+.navigation-link:hover,
+.navigation-link:focus {
   color: var(--main-brand-color);
 }
 .contacts-link {
