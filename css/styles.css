@@ -61,7 +61,7 @@ body {
   text-transform: uppercase;
   color: var(--hover-text-color);
 }
-.hero.button {
+.hero-button {
   background: var(--main-brand-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
