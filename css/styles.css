@@ -129,7 +129,7 @@ body {
   color: var(--paragraph-color);
 }
 /*Футер*/
-.footer {
+footer {
   background-color: var(--block-background-color);
 }
 .address-link {
