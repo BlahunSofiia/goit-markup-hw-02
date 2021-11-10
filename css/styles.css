@@ -7,6 +7,7 @@
   --hover-text-color: #ffffff;
   --footer-link-color: rgba(255, 255, 255, 0.6);
   --current-link-color: #000ff0;
+  --logo-dark-color: #000000;
 }
 body {
   font-family: Roboto, sans-serif;
@@ -25,6 +26,22 @@ body {
   font-style: normal;
 }
 /*Главная страница*/
+.logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+}
+.logo-web-color {
+  color: var(--main-brand-color);
+}
+.logo-studio-color {
+  color: var(--logo-dark-color);
+}
+.logo-footer-studio-color {
+  color: var(--hover-text-color);
+}
 /*Навигация*/
 .navigation-link {
   font-size: 14px;
